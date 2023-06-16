@@ -1,6 +1,8 @@
 
 ## AgriDoc (Agricultural Robot) - Final Year Project
 
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/9e1b866d33e6d8e1b5837171e0cb05f0aeb54afc/IMG_1502.jpeg)
+
 This project is to be carried out over a span of 1 year thus it was divided into two parts i.e. 2 semesters
 
 **Part1 Objectives:**
@@ -30,11 +32,9 @@ This project is to be carried out over a span of 1 year thus it was divided into
 
 
 ## Project Preview
-
-![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/3fc30085b9f6c748fef90d2641f61668310a9761/3.png)
-![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0ed9c1eefc205d471f8116735310ec636ba3abcb/5.png)
-
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/9e1b866d33e6d8e1b5837171e0cb05f0aeb54afc/Screenshot%202022-10-17%20171700.png)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/9e1b866d33e6d8e1b5837171e0cb05f0aeb54afc/Screenshot%202022-10-17%20180845.png)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/9e1b866d33e6d8e1b5837171e0cb05f0aeb54afc/IMG_0579.jpeg)
 ![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0ed9c1eefc205d471f8116735310ec636ba3abcb/4.png)
-
 ![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/e88b39c758d6abdf73b912f92bc04afa4f36aa4c/Part%201/2.png)
 
