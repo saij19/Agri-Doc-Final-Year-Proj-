@@ -27,16 +27,6 @@ Our aim for this final year project is to focus on the health of tomato plants a
 
 **IDE Used:** Jupyter Notebook
 
-**Before:**
-
-![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/b59fd12a5098ce0456518aee1b405ee9e882657d/Part%202/Weed%20Detection%20using%20YOLOv5/Before.png)
-![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/b59fd12a5098ce0456518aee1b405ee9e882657d/Part%202/Weed%20Detection%20using%20YOLOv5/BeforeSpec.png)
-
-**After:**
-
-![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/b59fd12a5098ce0456518aee1b405ee9e882657d/Part%202/Weed%20Detection%20using%20YOLOv5/After.png)
-![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/b59fd12a5098ce0456518aee1b405ee9e882657d/Part%202/Weed%20Detection%20using%20YOLOv5/Afterspecs.png)
-
 
 ## Model Preview and Test Results
 
