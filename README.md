@@ -19,7 +19,7 @@ This project is to be carried out over a span of 1 year thus it was divided into
 [Click Here](https://drive.google.com/drive/folders/1KlF9il-CKWtJe559HJ4c2z9ZQE2VETks?usp=sharing)
 
 
-## Components Used Till Now
+## Components Used
 
 - Jetson Nano Developer Kit - 4GB
 - RP LIDAR
@@ -28,10 +28,6 @@ This project is to be carried out over a span of 1 year thus it was divided into
 - Solar Panel
 - Voltage Regulator
 
-
-## License
-
-[Apache License 2.0](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/ea826e4d1747ed8ff487fcc5d36ea152eb0ef9c1/LICENSE)
 
 ## Project Preview
 
