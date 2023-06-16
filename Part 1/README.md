@@ -1,17 +1,23 @@
 
-## Real Time Image Classification with NVIDIA Jetson Nano
+# Part 1 - Real Time Image Classification with NVIDIA Jetson Nano
 
+## Objective 
 Our objective is to classify diseases and weeds in real time thus to start off with we want to detect simple plants using pre trained models in real time. First part would be to classify downloaded images then move on to real time using camera feed.
 
 
 ## Index
 
-- Workflow
 - Tech Stack
+- Workflow
 - Deployement
 - Acknowledgement
 - My Trained Model
 
+## Tech Stack
+
+**OS Used:** Linux
+
+**Shell Used:** Linux Terminal
 
 ## WorkFlow
 
@@ -44,13 +50,13 @@ Our objective is to classify diseases and weeds in real time thus to start off w
 
 - Input Images: 
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/a606f3ec7d582893d704e2dd5856c25b4fc097fb/Part1/b.jpg)
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/a606f3ec7d582893d704e2dd5856c25b4fc097fb/Part1/d.jpeg)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0a94d688e5dda71d2c9e926062afe53e771f6a06/Part%201/b.jpg)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0a94d688e5dda71d2c9e926062afe53e771f6a06/Part%201/d.jpeg)
 
 - Output Images: 
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/a606f3ec7d582893d704e2dd5856c25b4fc097fb/Part1/out-02.jpg)
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/a606f3ec7d582893d704e2dd5856c25b4fc097fb/Part1/out-04.jpg)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0a94d688e5dda71d2c9e926062afe53e771f6a06/Part%201/out-02.jpg)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0a94d688e5dda71d2c9e926062afe53e771f6a06/Part%201/out-04.jpg)
 
 **Real Time Image Classification for plants**
 
@@ -108,20 +114,9 @@ Our objective is to classify diseases and weeds in real time thus to start off w
 
 Test Images:
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/1148f05ecc94577dae25c50ecd90a7e7ead4dbfd/Part1/1.png)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0a94d688e5dda71d2c9e926062afe53e771f6a06/Part%201/1.png)
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/1148f05ecc94577dae25c50ecd90a7e7ead4dbfd/Part1/2.png)
-
-        
-
-
-
-
-## Tech Stack
-
-**OS Used:** Linux
-
-**Shell Used:** Linux Terminal
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0a94d688e5dda71d2c9e926062afe53e771f6a06/Part%201/2.png)
 
 
 ## Deployement
