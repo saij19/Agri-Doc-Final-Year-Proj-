@@ -1,5 +1,5 @@
 
-## Disease Detection in Tomato Plants
+# Disease Detection in Tomato Plants
 Our aim was to buld a deep learning model that would detect and classify various tomato diseases commonly found. This classification was done using CNN with the help of TensorFlow and achieved an accuracy of almost 97%
 
 ## Index
@@ -28,33 +28,13 @@ Our aim was to buld a deep learning model that would detect and classify various
 
 **IDE Used:** Jupyter Notebook 
 
-
-## Deployement
-
-To deploy this project simply upload the jupyter notebook and run it.
-
-
- 
-
-
-## Special thanks to
-
- - [codebasics](https://www.youtube.com/c/codebasics)
- 
- 
- 
-
-
 ## Disease Detection Model Prediction Preview
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/14c2afe674a4501048feb16bd1cd2b21285e6caa/Part2/Disease%20Detection%20in%20Tomato%20Plants/1.png)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/e9d51a6e54e9c8053751413cd123c8a2516217ce/Part%202/Disease%20Detection%20in%20Tomato%20Plants/1.png)
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/14c2afe674a4501048feb16bd1cd2b21285e6caa/Part2/Disease%20Detection%20in%20Tomato%20Plants/2.png)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/e9d51a6e54e9c8053751413cd123c8a2516217ce/Part%202/Disease%20Detection%20in%20Tomato%20Plants/2.png)
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/14c2afe674a4501048feb16bd1cd2b21285e6caa/Part2/Disease%20Detection%20in%20Tomato%20Plants/3.png)
-
-
-
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/e9d51a6e54e9c8053751413cd123c8a2516217ce/Part%202/Disease%20Detection%20in%20Tomato%20Plants/3.png)
 
 ## My Trained Model
 
