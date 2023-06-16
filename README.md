@@ -27,17 +27,6 @@ This project is to be carried out over a span of 1 year thus it was divided into
 - Wheels x4
 - Solar Panel
 - Voltage Regulator
-## Status of the project
-
-```bash
-  In Progress
-```
-## Authors
-
-- [@tejasrathod](https://www.linkedin.com/in/tejas-rathod-923187189/)
-- [@vinaypatil](https://www.linkedin.com/in/patil-vinay/)
-- [@saijalsinghal](https://www.linkedin.com/in/saijal-singhal-72897b1b5/)
-- [@yashsakaria](https://www.linkedin.com/in/yashsakaria/)
 
 
 ## License
