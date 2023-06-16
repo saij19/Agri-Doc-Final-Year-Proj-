@@ -1,5 +1,5 @@
 
-## Final Year Project - AgriDoc (Agricultural Robot)
+## AgriDoc (Agricultural Robot) - Final Year Project
 
 This project is to be carried out over a span of 1 year thus it was divided into two parts i.e. 2 semesters
 
