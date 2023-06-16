@@ -36,9 +36,9 @@ This project is to be carried out over a span of 1 year thus it was divided into
 ## Project Preview
 
 ![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/3fc30085b9f6c748fef90d2641f61668310a9761/3.png)
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/cb3d6df900a3bbcb3dbdaf7cfb59034b29bc1122/5.png)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0ed9c1eefc205d471f8116735310ec636ba3abcb/5.png)
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/cb3d6df900a3bbcb3dbdaf7cfb59034b29bc1122/4.png)
+![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0ed9c1eefc205d471f8116735310ec636ba3abcb/4.png)
 
 ![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/cb3d6df900a3bbcb3dbdaf7cfb59034b29bc1122/Part1/2.png)
 
