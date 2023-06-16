@@ -9,7 +9,6 @@ Our objective is to classify diseases and weeds in real time thus to start off w
 
 - Tech Stack
 - Workflow
-- Deployement
 - Acknowledgement
 - My Trained Model
 
@@ -20,25 +19,6 @@ Our objective is to classify diseases and weeds in real time thus to start off w
 **Shell Used:** Linux Terminal
 
 ## WorkFlow
-
-**Setting up the Jetson**
-
-- Install Packages
-
-        sudo apt install -y git cmake libpython3-dev python3-numpy
-        git clone --recursive https://github.com/dusty-nv/jetson-inference
-
-        cd jetson-inference
-        mkdir build
-        cd build
-        cmake ../
-
-- After this we just have to follow up by installing pre trained models like GoogleNet and ResNet-18 and also install pytorch for python 3
-- Last step: 
-
-        make
-        sudo make install
-        sudo ldconfig
 
 **Image Classification for plants on downloaded images**
 
@@ -60,25 +40,11 @@ Our objective is to classify diseases and weeds in real time thus to start off w
 
 **Real Time Image Classification for plants**
 
-- Now we will use the earlier COCO models to do real time predictions , just make sure that a camera is plugged in.
+- Now we will use COCO models to do real time predictions , just make sure that a camera is plugged in.
 
         cd ~/jetson-inference/build/aarch64/bin/
 
-- Because the Nano is an embedded device, it is not nearly as powerful as a modern desktop or server built with a powerful graphics card. 
-- NVIDIA has a training interface called DIGITS that makes training networks much easier.
 - We use “transfer learning” to retrain an existing network. When we do this, we just tweak the model’s parameters to optimize it to our own training data.
-- To begin, we first need to set up a swap space on our SD card so that we have more RAM to play with.
-
-        df -h
-
-        sudo fallocate -l 4G /mnt/4GB.swap
-        sudo chmod 0600 /mnt/4GB.swap
-        sudo mkswap /mnt/4GB.swap
-        sudo swapon /mnt/4GB.swap
-
-- Scroll to the bottom of this file and press ‘o’ to insert a new line and begin editing. Enter the following line:
-
-        /mnt/4GB.swap  none swap sw 0  0
 
 - Next, we need to capture images to create our datasets. I’ll be using 2 different sets of images, as I want my network to identify these categories:
         
@@ -118,10 +84,6 @@ Test Images:
 
 ![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/0a94d688e5dda71d2c9e926062afe53e771f6a06/Part%201/2.png)
 
-
-## Deployement
-
-To deploy this project follow the above instructions
 
 
 ## Special thanks to
