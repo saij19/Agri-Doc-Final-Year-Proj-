@@ -1,5 +1,5 @@
 
-## AgriDoc (Agricultural Robot) - Final Year Project
+## AgriDoc (Agricultural Doctor Robot) - Final Year Project
 
 ![](https://github.com/saij19/Agri-Doc-Final-Year-Proj-/blob/9e1b866d33e6d8e1b5837171e0cb05f0aeb54afc/IMG_1502.jpeg)
 
